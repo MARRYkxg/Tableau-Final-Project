@@ -20,8 +20,26 @@ Finally, we used correlation analysis to identify relationships between differen
 ![Alt Text](https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/screenshot.png)
 
 `<addr>` element here instead.
+
+**quote type:**
 > the present is our past.
+
+**quoting code:**
+`git status`
+
+**links:**
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 *This text will be italic*
 
 **This text will be bold**
+
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
