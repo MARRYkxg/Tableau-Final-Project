@@ -15,3 +15,13 @@ Next, we used geographic data to plot the profitability of movies by country.
 
 Finally, we used correlation analysis to identify relationships between different continuous variables. We identified that a movie’s gross revenue has a strong positive relationship with Facebook likes.
 
+
+
+![Alt Text](https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/screenshot.png)
+
+`<addr>` element here instead.
+> the present is our past.
+
+*This text will be italic*
+
+**This text will be bold**
