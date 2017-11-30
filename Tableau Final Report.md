@@ -1,12 +1,37 @@
+
+
+
+
+<p align="center">
+  <b>Business Analysis Skills Workshop  --Tableau Final deliverable</b><br>
+<p align="center">
+  <b>Jie Min, Justin Soniat, Huiting Tang, Huiping Zhu</b><br>
+<p align="center">
+  <b>DNSC 6216: Business Analytics Skills</b><br>
+
+
+
+
 Movies are a very common form of entertainment worldwide where people spend a significant amount of their leisure time. The movie industry is worth a lot and currently experiencing an exciting period of change because data analytics provides an opportunity for movie companies to more accurately predict the success of future movie releases. 
 
 In this project, we are going to analyze the possible factors affecting movies’ profitability and popularity. Based on the analysis results, we will make suggestions to movie producers on how to define movie types, directors, and actors or actresses so that they could create movies that are both profitable and popular.
 
 To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides a well-constructed source of data with variables such as financial information, directors, actors and movie genre, which we expect to be correlated with box office success. The dataset also provides a sample size of greater than 5,000 movies that we expect will provide statistical significance for increasing revenue and reducing uncertainty with producing new movies. The data provided in this dataset sheds light on customer’s choices and the feedback helps target the right audience, optimize marketing strategies and customer’s taste, and predict whether a movie will be popular before it is produced.
 
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
 
 
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 
 
