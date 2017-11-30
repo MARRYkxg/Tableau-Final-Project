@@ -28,13 +28,29 @@ In this project, we are going to analyze the possible factors affecting movies�
 To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides a well-constructed source of data with variables such as financial information, directors, actors and movie genre, which we expect to be correlated with box office success. The dataset also provides a sample size of greater than 5,000 movies that we expect will provide statistical significance for increasing revenue and reducing uncertainty with producing new movies. The data provided in this dataset sheds light on customer’s choices and the feedback helps target the right audience, optimize marketing strategies and customer’s taste, and predict whether a movie will be popular before it is produced.
 
 **Story Line**
+
+<p align="center">
+  <img width="860" height="600" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/1.png">
+</p>
+After we had a general overview of this dataset regarding to profit, we thought it was more meaningful to figure out the most profitable and popular movie genre, director and actor. Therefore, we grouped our dataset into three different subsets in which budget is low, medium and high. Therefore, we can use filters to dynamically show the most profitable actresses, directors, and movie type by different budget levels.
+
+To make a profitable and high-IMDB score movie, we need to consider the following five aspects: genre, director, actor, budget and country. And we take the data from year 1990 to year 2016 to do our analysis.
+
+
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+
+
 filtered actor 1,2,3 based on profitability to get the top 30
 
 **Challenges**
 
 We encountered difficulty when we found that the dataset we selected for our models has missing data and missing attributes such as profit and profitability. We put into considerable time and effort to think about how to wrangle the data and to extract useful information. We found a way to calculate the profit (gross minus budget). We also cleaned  up and built an accurate dataset. Moreover, some attributes in the dataset has multiple value for one cell such as Genre. So we split it into two new columns: genre-main type and genres-others.  In addition, we only have facebook likes data to measure the popularity of movies, which may affect our model accuracy and robustness during our predictive analytics process. Another challenge was we would like to find new perspectives to conduct the analysis since it’s a very common dataset. It took us lots of time for online searches and to have our tableau functioning properly.
 
-For reference, there is the link for [Tableau workbook online](https://pages.github.com/).
+For reference, there is the link for [Tableau workbook online](https://us-east-1.online.tableau.com/#/site/huiping/workbooks/189842/views).
 
 
 <p align="center">
