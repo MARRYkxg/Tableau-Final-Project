@@ -9,10 +9,13 @@
 <p align="center">
   <b>Jie Min, Justin Soniat, Huiting Tang, Huiping Zhu</b><br>
 <p align="center">
-  <b>DNSC 6216: Business Analytics Skills</b><br>
-
-
-
+  <b> </b><br>
+<p align="center">
+  <b> </b><br>
+<p align="center">
+  <b>  </b><br>
+<p align="center">
+  <b>  </b><br>
 **Executive Summary**
 
 Movies are a very common form of entertainment worldwide where people spend a significant amount of their leisure time. The movie industry is worth a lot and currently experiencing an exciting period of change because data analytics provides an opportunity for movie companies to more accurately predict the success of future movie releases. 
