@@ -1,7 +1,9 @@
-
-
-
-
+<p align="center">
+  <b> </b><br>
+<p align="center">
+  <b>  </b><br>
+<p align="center">
+  <b>  </b><br>
 <p align="center">
   <b>Business Analysis Skills Workshop  --Tableau Final deliverable</b><br>
 <p align="center">
