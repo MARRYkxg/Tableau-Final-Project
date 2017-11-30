@@ -29,13 +29,7 @@ To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides 
 
 **Story Line**
 
-<p align="center">
-  <img width="860" height="600" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/1.png">
-</p>
 
-<p align="center">
-  <img width="860" height="600" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/2.png">
-</p>
 
 
 After we had a general overview of this dataset regarding to profit, we thought it was more meaningful to figure out the most profitable and popular movie genre, director and actor. Therefore, we grouped our dataset into three different subsets in which budget is low, medium and high. Therefore, we can use filters to dynamically show the most profitable actresses, directors, and movie type by different budget levels.
