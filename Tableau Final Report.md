@@ -11,7 +11,7 @@
 <p align="center">
   <b>Jie Min, Justin Soniat, Huiting Tang, Huiping Zhu</b><br>
 <p align="center">
-  <b> </b><br>
+  <b>December 1, 2017 </b><br>
 <p align="center">
   <b> </b><br>
 <p align="center">
@@ -28,7 +28,7 @@ In this project, we are going to analyze the possible factors affecting movies�
 To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides a well-constructed source of data with variables such as financial information, directors, actors and movie genre, which we expect to be correlated with box office success. The dataset also provides a sample size of greater than 5,000 movies that we expect will provide statistical significance for increasing revenue and reducing uncertainty with producing new movies. The data provided in this dataset sheds light on customer’s choices and the feedback helps target the right audience, optimize marketing strategies and customer’s taste, and predict whether a movie will be popular before it is produced.
 
 **Story Line**
-
+filtered actor 1,2,3 based on profitability to get the top 30
 
 **Challenges**
 
