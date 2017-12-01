@@ -50,8 +50,7 @@ Steps of Data Analysis
 - Thirdly, we mapped the gross, budget and profit of movies around the world and we also found that this idea holds true across the international movie-making industry. 
 - We further want to figure out which director should be chosen for certain genres we decided previously. Here, we consider profit, facebook likes and IMDB score to find the directors that can help produce both highly popular, profitable and highly rated movies.
 - After decide directors, we use the similar method to figure out which actors should be chose including the first leading actor/actress, the second and the third one. We also found that the second leading actor may provide the most value for producers to choose an actor or actress with a household name for this type of position rather than as the leading actor or actress.
-<p align="center">
-  <b> </b><br>
+
 
 Business Summary
 
