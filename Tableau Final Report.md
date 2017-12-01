@@ -27,6 +27,7 @@ In this project, we are going to analyze the possible factors affecting movies�
 
 To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides a well-constructed source of data with variables such as financial information, directors, actors and movie genre, which we expect to be correlated with box office success. The dataset also provides a sample size of greater than 5,000 movies that we expect will provide statistical significance for increasing revenue and reducing uncertainty with producing new movies. The data provided in this dataset sheds light on customer’s choices and the feedback helps target the right audience, optimize marketing strategies and customer’s taste, and predict whether a movie will be popular before it is produced.
 
+
 **Story Line**
 
 
@@ -34,6 +35,7 @@ Workflow of Project
 <p align="center">
   <img width="900" height="300" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/workflow.png">
 </p>
+
 
 
 Steps of Data Analysis
@@ -46,11 +48,13 @@ Steps of Data Analysis
 - After decide directors, we use the similar method to figure out which actors should be chose including the first leading actor/actress, the second and the third one. We also found that the second leading actor may provide the most value for producers to choose an actor or actress with a household name for this type of position rather than as the leading actor or actress.
 
 
+
 Business Summary
 
 Our final recommendation states that producers should create an animated film to increase their chances of developing a profitable movie. If the producer does not have the resources to create an animated film, the producer can still use the same strategy of selecting well-known actors and actresses for supporting roles or cameo appearances in order to create a film that earns a high amount of revenue without implementing too costly of a cast. Additionally, when choosing directors, movie producers should focus more on their previous average movie profitability rather than their popularity. 
 
 There is the link of [Tableau public](https://public.tableau.com/views/BAWorkshopFinalProject-IMDBMovieDataAnalysis/IMDBMovieDataAnalysis?:embed=y&:display_count=yes&publish=yes).
+
 
 
 **Challenges**
