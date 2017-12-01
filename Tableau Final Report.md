@@ -31,7 +31,7 @@ To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides 
 
 Workflow of Project
 <p align="center">
-  <img width="700" height="300" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/workflow.png">
+  <img width="800" height="300" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/workflow.png">
 </p>
 
 Steps of Data Analysis
