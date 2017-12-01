@@ -29,10 +29,12 @@ To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides 
 
 **Story Line**
 
+
 Workflow of Project
 <p align="center">
-  <img width="800" height="300" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/workflow.png">
+  <img width="900" height="300" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/workflow.png">
 </p>
+
 
 Steps of Data Analysis
 
@@ -48,87 +50,9 @@ Business Summary
 
 Our final recommendation states that producers should create an animated film to increase their chances of developing a profitable movie. If the producer does not have the resources to create an animated film, the producer can still use the same strategy of selecting well-known actors and actresses for supporting roles or cameo appearances in order to create a film that earns a high amount of revenue without implementing too costly of a cast. Additionally, when choosing directors, movie producers should focus more on their previous average movie profitability rather than their popularity. 
 
-There is the link of .[Tableau public](https://public.tableau.com/views/BAWorkshopFinalProject-IMDBMovieDataAnalysis/IMDBMovieDataAnalysis?:embed=y&:display_count=yes&publish=yes).
+There is the link of [Tableau public](https://public.tableau.com/views/BAWorkshopFinalProject-IMDBMovieDataAnalysis/IMDBMovieDataAnalysis?:embed=y&:display_count=yes&publish=yes).
 
 
 **Challenges**
 
 We encountered difficulty when we found that the dataset we selected for our models has missing data and missing attributes such as profit and profitability. We put into considerable time and effort to think about how to wrangle the data and to extract useful information. We found a way to calculate the profit (gross minus budget). We also cleaned  up and built an accurate dataset. Moreover, some attributes in the dataset has multiple value for one cell such as Genre. So we split it into two new columns: genre-main type and genres-others.  In addition, we only have facebook likes data to measure the popularity of movies, which may affect our model accuracy and robustness during our predictive analytics process. Another challenge was we would like to find new perspectives to conduct the analysis since it’s a very common dataset. It took us lots of time for online searches and to have our tableau functioning properly.
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-
-
-
-filtered actor 1,2,3 based on profitability to get the top 30
-
-
-
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
-
-
-
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-
-
-
-
-### Genre
-This is a graph showing the average profit trend of top 10 genres (genres-main type) with the high average profitability. 
-### Country
-Next, we used geographic data to plot the profitability of movies by country.
-
-
-
-
-Finally, we used correlation analysis to identify relationships between different continuous variables. We identified that a movie’s gross revenue has a strong positive relationship with Facebook likes.
-
-
-
-![Alt Text](https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/screenshot.png)
-
-`<addr>` element here instead.
-
-**quote type:**
-> the present is our past.
-
-**quoting code:**
-`git status`
-
-**links:**
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-*This text will be italic*
-
-**This text will be bold**
-
-
-- George Washington
-- John Adams
-- Thomas Jefferson
-
-
-1. James Madison
-2. James Monroe
-
