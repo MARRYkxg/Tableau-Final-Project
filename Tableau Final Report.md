@@ -29,12 +29,32 @@ To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides 
 
 **Story Line**
 
+Workflow of Project
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+Steps of Data Analysis
+
+- We found data in the IMDB dataset each cell in genre contains multiple movie type information. So, we split the genre column into “genres-main type” column with only the first genre of the movie and “genres-others”, which contains the rest part of the genre.
+- First, we were interested in finding what types of movies to recommend to movie producers. So we count the records for each genre and sort them, and we found that animation, comedy, action, and drama are popular and profitable movie genres. Then, since our dataset include data over 100 years, we only want to see the recent trend of profitability for each genre. So we picked out data from 2000 to 2016 and made line charts of average profit for each genre over year. We found that Animation movies show the most profitability along with a recent upward trend, but this genre is also susceptible to volatility. The success or failure of blockbuster releases likely plays a role in this volatility.
+- Secondly, we took budget into consideration. We set high, medium, and low budgets and made bar charts to see the profitability for each genre under different budget categories. We found that high budget films present a high risk for movie-producers, so movie producers do not necessarily need to invest a significant amount of money to make a profitable movie.
+- Thirdly, we mapped the gross, budget and profit of movies around the world and we also found that this idea holds true across the international movie-making industry. 
+- We further want to figure out which director should be chosen for certain genres we decided previously. Here, we consider profit, facebook likes and IMDB score to find the directors that can help produce both highly popular, profitable and highly rated movies.
+- After decide directors, we use the similar method to figure out which actors should be chose including the first leading actor/actress, the second and the third one. We also found that the second leading actor may provide the most value for producers to choose an actor or actress with a household name for this type of position rather than as the leading actor or actress.
+
+
+Business Summary
+
+Our final recommendation states that producers should create an animated film to increase their chances of developing a profitable movie. If the producer does not have the resources to create an animated film, the producer can still use the same strategy of selecting well-known actors and actresses for supporting roles or cameo appearances in order to create a film that earns a high amount of revenue without implementing too costly of a cast. Additionally, when choosing directors, movie producers should focus more on their previous average movie profitability rather than their popularity. 
+
+
+Link of Tableau public: 
+
+https://public.tableau.com/views/BAWorkshopFinalProject-IMDBMovieDataAnalysis/IMDBMovieDataAnalysis?:embed=y&:display_count=yes&publish=yes
 
 
 
-After we had a general overview of this dataset regarding to profit, we thought it was more meaningful to figure out the most profitable and popular movie genre, director and actor. Therefore, we grouped our dataset into three different subsets in which budget is low, medium and high. Therefore, we can use filters to dynamically show the most profitable actresses, directors, and movie type by different budget levels.
-
-To make a profitable and high-IMDB score movie, we need to consider the following five aspects: genre, director, actor, budget and country. And we take the data from year 1990 to year 2016 to do our analysis.
 
 
 
