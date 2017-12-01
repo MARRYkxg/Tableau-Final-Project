@@ -52,9 +52,9 @@ Steps of Data Analysis
 - Thirdly, we mapped the gross, budget and profit of movies around the world and we also found that this idea holds true across the international movie-making industry. 
 - We further want to figure out which director should be chosen for certain genres we decided previously. Here, we consider profit, facebook likes and IMDB score to find the directors that can help produce both highly popular, profitable and highly rated movies.
 - After decide directors, we use the similar method to figure out which actors should be chose including the first leading actor/actress, the second and the third one. We also found that the second leading actor may provide the most value for producers to choose an actor or actress with a household name for this type of position rather than as the leading actor or actress.
-
 <p align="center">
   <b> </b><br>
+
 Business Summary
 
 Our final recommendation states that producers should create an animated film to increase their chances of developing a profitable movie. If the producer does not have the resources to create an animated film, the producer can still use the same strategy of selecting well-known actors and actresses for supporting roles or cameo appearances in order to create a film that earns a high amount of revenue without implementing too costly of a cast. Additionally, when choosing directors, movie producers should focus more on their previous average movie profitability rather than their popularity. 
