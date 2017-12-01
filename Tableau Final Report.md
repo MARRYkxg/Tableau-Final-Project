@@ -29,12 +29,14 @@ To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides 
 
 <p align="center">
   <b> </b><br>
+ 
 **Story Line**
 
 <p align="center">
   <b> </b><br>
  
 Workflow of Project
+
 <p align="center">
   <img width="950" height="300" src="https://github.com/HuipingZhu/Tableau-Final-Project/blob/master/workflow.png">
 </p>
@@ -42,6 +44,7 @@ Workflow of Project
 
 <p align="center">
   <b> </b><br>
+
 Steps of Data Analysis
 
 - We found data in the IMDB dataset each cell in genre contains multiple movie type information. So, we split the genre column into “genres-main type” column with only the first genre of the movie and “genres-others”, which contains the rest part of the genre.
@@ -53,6 +56,7 @@ Steps of Data Analysis
 
 <p align="center">
   <b> </b><br>
+
 Business Summary
 
 Our final recommendation states that producers should create an animated film to increase their chances of developing a profitable movie. If the producer does not have the resources to create an animated film, the producer can still use the same strategy of selecting well-known actors and actresses for supporting roles or cameo appearances in order to create a film that earns a high amount of revenue without implementing too costly of a cast. Additionally, when choosing directors, movie producers should focus more on their previous average movie profitability rather than their popularity. 
@@ -61,6 +65,7 @@ There is the link of [Tableau public](https://public.tableau.com/views/BAWorksho
 
 <p align="center">
   <b> </b><br>
+
 **Challenges**
 
 We encountered difficulty when we found that the dataset we selected for our models has missing data and missing attributes such as profit and profitability. We put into considerable time and effort to think about how to wrangle the data and to extract useful information. We found a way to calculate the profit (gross minus budget). We also cleaned  up and built an accurate dataset. Moreover, some attributes in the dataset has multiple value for one cell such as Genre. So we split it into two new columns: genre-main type and genres-others.  In addition, we only have facebook likes data to measure the popularity of movies, which may affect our model accuracy and robustness during our predictive analytics process. Another challenge was we would like to find new perspectives to conduct the analysis since it’s a very common dataset. It took us lots of time for online searches and to have our tableau functioning properly.
