@@ -31,10 +31,9 @@ To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides 
   <b> </b><br>
  
 **Story Line**
-
 <p align="center">
   <b> </b><br>
- 
+
 Workflow of Project
 
 <p align="center">
@@ -56,7 +55,6 @@ Steps of Data Analysis
 
 <p align="center">
   <b> </b><br>
-
 Business Summary
 
 Our final recommendation states that producers should create an animated film to increase their chances of developing a profitable movie. If the producer does not have the resources to create an animated film, the producer can still use the same strategy of selecting well-known actors and actresses for supporting roles or cameo appearances in order to create a film that earns a high amount of revenue without implementing too costly of a cast. Additionally, when choosing directors, movie producers should focus more on their previous average movie profitability rather than their popularity. 
