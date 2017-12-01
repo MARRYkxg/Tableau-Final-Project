@@ -31,8 +31,6 @@ To do the analysis, we selected the IMDB 5000 Movie Dataset because it provides 
   <b> </b><br>
  
 **Story Line**
-<p align="center">
-  <b> </b><br>
 
 Workflow of Project
 
