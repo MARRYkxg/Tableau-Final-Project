@@ -56,7 +56,7 @@ Business Summary
 
 Our final recommendation states that producers should create an animated film to increase their chances of developing a profitable movie. If the producer does not have the resources to create an animated film, the producer can still use the same strategy of selecting well-known actors and actresses for supporting roles or cameo appearances in order to create a film that earns a high amount of revenue without implementing too costly of a cast. Additionally, when choosing directors, movie producers should focus more on their previous average movie profitability rather than their popularity. 
 
-There is the link of [Tableau public](https://public.tableau.com/shared/8JPSBRXC9?:display_count=yes).
+There is the link of [Tableau public](https://public.tableau.com/profile/huiping.zhu#!/vizhome/IMDBfinal_0/IMDBMovieDataAnalysis?publish=yes).
 
 
 
